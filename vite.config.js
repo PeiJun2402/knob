@@ -18,9 +18,9 @@ export default defineConfig({
       scss: {
       
         additionalData: `
-        @import "@/style/Partials/variable.scss";
-        @import "@/style/Partials/function.scss";
-        @import "@/style/Partials/font.scss";
+        @import "./src/style/Partials/variable.scss";
+        @import "./src/style/Partials/function.scss";
+        @import "./src/style/Partials/font.scss";
         `, 
       
       },
