@@ -1,6 +1,7 @@
 <script setup>
-import { computed, ref, watch } from 'vue';
+
 import  EmitEvents from '../components/EmitEvents.vue';
+import { computed, ref, watch } from 'vue';
 
 
 //【input區 變數】基本數值&顏色&尺寸
