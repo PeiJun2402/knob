@@ -1,5 +1,5 @@
 <script setup>
-import knob from './components/knob.vue'
+import knob from '@/components/knob.vue'
 </script>
 
 <template>
